@@ -1,0 +1,16 @@
+{
+  "id": "a2ui",
+  "name": "A2UI",
+  "description": "Lets agents show interactive A2UI forms, choices and cards in the chat, on desktop, web and mobile.",
+  "icon": "assets/icon.png",
+  "media": ["assets/form.png", "assets/dashboard.png", "assets/mobile.png"],
+  "translations": {
+    "zh-CN": {
+      "name": "A2UI",
+      "description": "让智能体在聊天中显示可交互的 A2UI 表单、选项和卡片，支持桌面端、网页和移动端。"
+    }
+  },
+  "requirements": {
+    "paseo": ">=0.17.3"
+  }
+}

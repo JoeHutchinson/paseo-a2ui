@@ -1,0 +1,5 @@
+paseo-a2ui
+Copyright 2026 Joe Hutchinson
+
+This product renders A2UI (https://a2ui.org), an Apache-2.0 project, and is a plugin for
+Paseo (https://paseo.sh). It does not include their source code.
